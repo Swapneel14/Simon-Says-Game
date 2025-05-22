@@ -4,7 +4,7 @@ A fun and interactive browser-based **Simon Says** game built using **HTML**, **
 
 ## 🚀 Live Demo
 
-
+ https://swapneel14.github.io/Simon-Says-Game/
 ---
 
 ## 🧠 How to Play
