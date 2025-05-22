@@ -19,6 +19,7 @@ A fun and interactive browser-based **Simon Says** game built using **HTML**, **
 
 ## 📸 Screenshots
 
+![Simon Says Game](https://github.com/user-attachments/assets/76cff28b-860c-4a9f-9007-a9c713f8ded1)
 
 ---
 
